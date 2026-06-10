@@ -1,4 +1,4 @@
-# CodingAndDeployingAIAgents
+# Coding And Deploying AI Agents
 How to coding and deploying AI Agentes
 
 Instructions:
@@ -30,7 +30,7 @@ Instructions:
 - Copy the key in the clipboard.
 
 - Go bach to cursor and create a new file named ".env"
-- Open that file and add: OPENAI_API_KEY = <YOUR KEY>
+- Open that file and add: `OPENAI_API_KEY = YOUR KEY`
 - If you are using antother platform follow the same method as follows:
 - DEEPSEEK_API_KEY=
 - GROQ_API_KEY=
