@@ -111,4 +111,12 @@ Select Python Environments --> .venv
 
 From here keep installing the libraries as nedded they will be automatically added to pyproject.toml
 
+Examples (In Terminal):
+
+uv add python-dotenv
+
+uv add openai
+
+uv add pypdf
+
 
